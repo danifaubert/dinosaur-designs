@@ -10,6 +10,7 @@ img {
 
 h1, h2 {
   color: #5d8432;
+  font-family: Georgia, serif;
   text-transform: uppercase;
 }
 
@@ -21,6 +22,7 @@ figcaption {
 
 nav {
   font-size: 1.125rem;
+  font-family: Georgia, serif;
   font-weight: bold;
 }
 
