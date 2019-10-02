@@ -13,18 +13,18 @@ h1, h2 {
   text-transform: uppercase;
 }
 
-figcaption{
+figcaption {
   font-size: .8rem;
   font-style: italic;
   text-align: center;
 }
 
-nav{
+nav {
   font-size: 1.125rem;
   font-weight: bold;
 }
 
-nav ol{
+nav ol {
   list-style-type: none;
 }
 
